@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/1266bcbe-933c-4976-83bb-29060cad7e6d
 ### ⬇️ Download executable file 
 
 Here the link to download *.exe file
-https://drive.google.com/file/d/15mITzzPoBaVK2pbY_8ov03imLk5MihNK/view?usp=sharing
+https://drive.google.com/file/d/1OUwilPWtCmc-kxL_BzwF8zaR5am4a5Gp/view?usp=sharing
 
 
 
