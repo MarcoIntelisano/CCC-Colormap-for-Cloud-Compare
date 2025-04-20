@@ -1,16 +1,17 @@
-## QR-Code-Generator
+## CCC-Colormap for Cloud Comapre
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="imgs/qrcode_icon.png" alt="Logo" height="100">
-<h3 align="center">Generate your QR-Code and customize it</h3>
+    <img src="imgs/CCC_Colormap_CloudCompare-200x200.png" alt="Logo" height="100">
+<h3 align="center">Generate all colormaps for Cloud Compare</h3>
 </div>
 <br/>
 <div align="center">
-    <img src="imgs/qrcode_screenshot.png" alt="Screenshot" height="600">
+    <img src="imgs/01-CCC-Colormaps_for_CloudCompare.png" alt="Screenshot" height="600">
+    <img src="imgs/04-CCC-Colormaps_for_CloudCompare.png" alt="Screenshot" height="600">
 </div>
-</div>
+<br/>
 
 
 
