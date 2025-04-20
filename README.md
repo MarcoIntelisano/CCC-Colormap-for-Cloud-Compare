@@ -18,8 +18,8 @@
 
 
 There are two versions: 
-- With a user interface (see the file qrcode_with_logo_UI.py)
-- Simple code (see the file qrcode_with_logo_R01.py)
+- Python code, see the file py_Colormap_for_CloudCompare.py
+- *.exe file, download from the bottom link
 
 <div align="center">
     
@@ -34,9 +34,9 @@ https://github.com/user-attachments/assets/1266bcbe-933c-4976-83bb-29060cad7e6d
 
 ### :computer: Requirements
 
-- qrcode >= 8.0
-- pillow
-- PySimpleGUI >= 4.70.1
+- uuid
+- matplotlib
+- numpy
 
 ### ⬇️ Download executable file 
 
