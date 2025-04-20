@@ -1,4 +1,4 @@
-## CCC-Colormap for Cloud Comapre
+## CCC - Colormap for Cloud Comapre
 
 <!-- PROJECT LOGO -->
 <br />
