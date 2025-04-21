@@ -69,7 +69,7 @@ https://drive.google.com/file/d/1OUwilPWtCmc-kxL_BzwF8zaR5am4a5Gp/view?usp=shari
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcoIntelisano.MarcoIntelisano&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcoIntelisano.CCC-Colormap-for-Cloud-Compare"  />
 </div>
 
 
