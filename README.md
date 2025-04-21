@@ -22,7 +22,14 @@ There are two versions:
 - *.exe file, download from the bottom link
 
 <div align="center">
-https://github.com/user-attachments/assets/23dcb413-0719-40cc-bb57-e6a427847a51
+    
+
+
+https://github.com/user-attachments/assets/d99d9342-ab72-498d-8062-575ffe236c9c
+
+
+
+
 </div>
 
 
