@@ -22,13 +22,10 @@ There are two versions:
 - *.exe file, download from the bottom link
 
 <div align="center">
-    
-
-
-https://github.com/user-attachments/assets/d99d9342-ab72-498d-8062-575ffe236c9c
 
 
 
+https://github.com/user-attachments/assets/f0cbc6cf-8ec1-46a9-942c-c74f38974836
 
 </div>
 
