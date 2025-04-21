@@ -22,15 +22,9 @@ There are two versions:
 - *.exe file, download from the bottom link
 
 <div align="center">
-    
-
-
 https://github.com/user-attachments/assets/23dcb413-0719-40cc-bb57-e6a427847a51
-
-
-
-
 </div>
+
 
 ## :wrench: Dependencies and Installation
 
