@@ -4,7 +4,7 @@
 <br />
 <div align="center">
     <img src="imgs/CCC_Colormap_CloudCompare-200x200.png" alt="Logo" height="100">
-<h3 align="center">Generate all colormaps for Cloud Compare</h3>
+<h3 align="center">Generate Python colormaps for Cloud Compare</h3>
 </div>
 <br/>
 <div align="center">
